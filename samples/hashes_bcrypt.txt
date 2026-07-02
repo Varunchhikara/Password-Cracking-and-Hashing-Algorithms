@@ -1,0 +1,6 @@
+alice:$2b$08$JdfcUzV4zyvPNeUrW.DaWOHaYk.Mp3yTpIZDyrIctSdTKgLiOl1zC
+bob:$2b$08$Bi8/5yhQPKEYrh140P2KB.RABfCGPZJLPNP7M4D/GgYJpyxgIfgkq
+carol:$2b$08$DXxjDjaQQc7LM7dy9DCeZezx1QP9j6xE6p7YkVcnnmijww0YFnFOW
+dave:$2b$08$afP2gCp98xqIYULxLI4mAeAo7E0kewxFMC8jeNfQ3agJ3sKgCZCQG
+erin:$2b$08$h7fz4Q2x5M9BH8w.i/zntu0ezoLLAufUvLNlfsXRmGUULhjhgmHtm
+frank:$2b$08$JIooutRGflvgn4owZaoP6.z6DlhzKAGB0iJ52PGEdXVwCAWbTsBYy

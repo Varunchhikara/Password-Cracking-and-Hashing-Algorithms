@@ -1,0 +1,6 @@
+alice:$6$85286LHaQBVTAjh0$ut5Bs.5iteJ7pMurSdk1jKs3AaymNnDpNe4KBihh2RIELm2novIh9PqQrv2bWkL.fi2NYmICFLZ26whgDKMHV.
+bob:$6$ocaK.1t9kVj6Odon$Vn8oSedyOkjA16MXOp.GvpMEpZd.n3XokncWqJYcIFZ0aZf.z2PPpVhfLkIL5DLN.NmeJKB9bM43kcOj.7rQV1
+carol:$6$cKfaEGURtUSXgRwC$Yre1Cfh.PVCPDtDTk/MIGGxU6IVFBaGSqCdvR9xILAlH/UWaUP0S812ONTtsGrpG.QE8LgIaq/hOgYqXrP4Hx1
+dave:$6$JYi.MIw0NADqY4aW$q6AImaoyGk3tfZ8AgAKCzfiS0QbUblpMlsjt4PkpYxrxiqeL1vKdF4QZ5rxNeZeDlMc0i.3/CwkyT9s3Mv4KB0
+erin:$6$eybX9bO5kA0.9Ohd$sHiI0zmhWMxATojTZjEXikofXey9A2kvWh1ChB7XvIh0iKOcaw6V.wu6a6jweUaUrFoWTBUbKhY9oXNPvDArN/
+frank:$6$mjvkes/qy9KCTxBB$nCbzgftLrUI2940bXAYCmoH.mBer1prwYjk.jQj43XUudrS6daIcVooenelk938/uQ3tWpVJIzLDkmXuAutCA0
